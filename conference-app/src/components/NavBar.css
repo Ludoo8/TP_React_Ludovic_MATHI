@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .navbar-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .navbar-links li {
+    float: left;
+  }
+  
+  .navbar-links li a, .navbar-links li button {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .navbar-links li a:hover, .navbar-links li button:hover {
+    background-color: #575757;
+  }
+  

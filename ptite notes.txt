@@ -1,0 +1,7 @@
+npm start sur le projet
+
+lancer docker
+docker-compose up pour lancer le back end
+
+User Admin id : "ludo" mdp "1234"
+user user id: "Julian" mdp "noob"
